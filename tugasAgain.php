@@ -58,7 +58,7 @@
                                   </option>
                                 <?php endfor;?>
                             </select>
-                            <label for="fsTahun">Tahun Daftar</label>
+                            <label for="fsTahun">Tahun Pendaftaran</label>
                         </div>
 
                         <input type="submit" class="btn btn-success mt-3 col-12" value="Daftar" name="submit">
